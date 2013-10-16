@@ -1,0 +1,25 @@
+/*
+Variáveis
+*******************/
+
+
+$gridPad: 10px; // Padrão para o Sgobin Grid.
+
+
+/* Helpers */
+@mixin bdr($i) {
+	-webkit-border-radius: $i;
+	-moz-border-radius: $i;
+	-o-border-radius: $i;
+	border-radius: $i;
+}
+
+// Converte para em
+@function re($target, $context){
+        @return ($target/$context)+0em;
+}
+
+// Converte para em
+@function re($target, $context){
+        @return ($target/$context)+0em;
+}
