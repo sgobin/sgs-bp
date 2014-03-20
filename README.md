@@ -13,9 +13,9 @@ Este é o fundamento básico que todo projeto web recebe aqui na [SGOBIN STUDIO]
 ## Baseado nas versões:
 Parte do código livremente baseado em componentes dos seguintes projetos e versões:
 
-* Normalize v2.1.3
+* Normalize v3.0.0
 * H5BP v4.3.0
-* JQuery v1.10.2
+* JQuery v1.11.0
 * gridSgobin v1.0.2
 * html5SHIV 
 * BootStrap
